@@ -8,5 +8,4 @@ public class University {
 public class College {
     private String collegeId;
     private String collegeName;
-    private University university;
 }
